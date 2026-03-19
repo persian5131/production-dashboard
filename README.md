@@ -2,7 +2,8 @@
 
 工場の月次生産データをブラウザ上で可視化・分析するためのオフライン対応Webアプリです。
 
-![スクリーンショット](screenshot.png)
+<img width="1897" height="926" alt="image" src="https://github.com/user-attachments/assets/2212f549-ebe2-49e4-b256-1557a47f95e3" />
+
 
 ## 背景・目的
 
